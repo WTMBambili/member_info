@@ -1,30 +1,9 @@
 [
     {  
         "id":       null,
-        "name":       null,
-        "position":      null,   
+        "name":       null,  
         "language":    null,
-        "level":    null
     },
-    {  
-        "id":       1, 
-        "name":       "Ida Delphine",   
-        "position":      "Lead",   
-        "language":    "Python",
-        "level":    "Intermediate"  
-    },
-    {
-        "id": 2,
-        "name": "Hawawou Oumarou",
-        "position": "core member",
-        "language": "Javascript",
-        "level": "Beginner"
-    }
-    {
-        "id": 3,
-        "name": "Stephanie Mboyi",
-        "position": "member",
-        "language": "Javascript",
-        "level": "intermediate"
-    }
+    
+    
 ]
