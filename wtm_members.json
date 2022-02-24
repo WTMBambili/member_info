@@ -2,14 +2,19 @@
     {  
         "id":       null,
         "name":       null,  
-        "language":    null,
+        "language":    null
     },
     
      {  
         "id":      1,
         "name":       "stephanie nkwatoh",  
-        "language":    "python",
+        "language":    "python"
     },
+    {  
+        "id":      2,
+        "name":       "Hawawou Oumarou",  
+        "language":    "python"
+    }
     
     
 ]
