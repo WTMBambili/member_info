@@ -15,6 +15,13 @@
         "name":       "Hawawou Oumarou",  
         "language":    "python"
     },
+
+    {  
+        "id":      3,
+        "name":       "Ndze Regina",  
+        "language":    "python"
+    },
+    
     {"id":      4,
         "name":       "Sahla nyuykikfe",  
         "language":    "python"
@@ -24,5 +31,6 @@
         "name":       "Ndifon Titian",  
         "language":    null
     },
+
     
 ]
